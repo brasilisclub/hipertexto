@@ -11,7 +11,7 @@ No tech headaches. No complex setups. We aim to help everyone create their own s
 ## Not the First, But Building Forward  
 Hipertexto isn’t alone in reimagining blogging:  
 - [Montaigne](https://montaigne.io); 
-- [Quotion](https://quotion.so);
+- [Quotion](https://quotion.co);
 - [NotesPub](https://notespub.com); 
 
 ## Blogging from Your Files  
